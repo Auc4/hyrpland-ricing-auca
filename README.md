@@ -21,9 +21,7 @@ This setup demonstrates deep operational knowledge of Linux systems, crucial for
 
 ## 🖼️ Screenshots & Workflow
 
-*(**Action Required:** Please replace the link below with a link to your images, GIF, or video showing the setup.)*
-
-[View the personalized desktop environment and workflow in action.]
+![View the personalized desktop environment and workflow in action.](./imagen.png)
 
 ---
 
